@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "text": "호떡 하나 먹고 잘까",
+      "createdAt": 1512582411920,
+      "id": 2,
+      "isFinished": false
+    },
+    {
+      "text": "그루브 타면서 잠에 들기",
+      "isFinished": false,
+      "createdAt": 1512585179001,
+      "id": 3
+    },
+    {
+      "text": "플레이스테이션 한번 닦기",
+      "isFinished": true,
+      "createdAt": 1512585187159,
+      "id": 4
+    },
+    {
+      "text": "커맨드 엔터 기능 추가 해줄까 말까 고민하고 결국 넣어주지 않기",
+      "isFinished": false,
+      "createdAt": 1512585203339,
+      "id": 5
+    }
+  ]
+}
